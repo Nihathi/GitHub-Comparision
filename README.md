@@ -1,7 +1,9 @@
 # Title
 GitHub Comparison: Python and Java Analysis                                                                                                                                    
 # Project Overview
-This project focuses on a comparative analysis of Python and Java adoption among GitHub developers. The analysis was performed using GitHub developer metrics such as contributions, followers, stars, and repositories to understand popularity trends and adoption patterns of both programming languages.                                        
+This project focuses on a comparative analysis of Python and Java adoption among GitHub developers. The analysis was performed using GitHub developer metrics such as contributions, followers, stars, and repositories to understand popularity trends and adoption patterns of both programming languages.                                       
+# Problem Statement
+This study aims to investigate the popularity of Python and Java among Indian developers on GitHub and comparing trends in their usage across different joining years. By analyzing key metrics such as contributions, followers, stars and repositories.                                                                                            
 # Objectives
 - To compute the adoption of Python among GitHub developers by analysing user metrics such as contributions, followers, stars, and repositories.
 - To perform a comparative analysis of Python and Java by examining their adoption patterns, popularity metrics, and trends among GitHub developers.
